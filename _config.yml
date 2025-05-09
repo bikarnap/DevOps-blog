@@ -1,4 +1,7 @@
 # title: DevOps Blog
 theme: minima
+author:
+  name: Bikarna Pokharel
+  email: "bikarnap@gmail.com"
 minima:
   date_format: "%b %-d, %Y"
