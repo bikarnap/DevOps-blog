@@ -1,2 +1,4 @@
 # title: DevOps Blog
 theme: minima
+minima:
+  date_format: "%b %-d, %Y"
