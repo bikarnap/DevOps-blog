@@ -8,6 +8,9 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+include:
+  - _includes/head-custom.html
+
 author:
   name: Bikarna Pokharel
   email: "bikarnap@gmail.com"
