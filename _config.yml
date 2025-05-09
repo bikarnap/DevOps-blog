@@ -18,8 +18,20 @@ minima:
   date_format: "%b %-d, %Y"
 lang: en
 timezone: Europe/Helsinki
-twitter_username: bikarnap
-github_username: bikarnap
-linkedin_username: bikarna-pokharel-40443652
+social_links:
+  - title: GitHub
+    url: https://github.com/bikarnap
+    icon: github
+
+  - title: Twitter
+    url: https://twitter.com/bikarnap
+    icon: x-twitter
+
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bikarna-pokharel-40443652
+    icon: linkedin
+# twitter_username: bikarnap
+# github_username: bikarnap
+# linkedin_username: bikarna-pokharel-40443652
 
 
