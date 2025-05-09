@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to Fix a Stuck or Ghost VM in XCP-ng or XenServer"
+author: Bikarna Pokharel
+tags: [xcp-ng, VM, troubleshooting]
 date: 2025-05-09
 ---
 # 🧟‍♂️ How to Fix a Stuck or Ghost VM in XCP-ng or XenServer
