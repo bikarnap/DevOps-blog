@@ -6,7 +6,7 @@ theme: minima
 remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 include:
   # - _includes/head-custom.html
