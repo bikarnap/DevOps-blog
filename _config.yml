@@ -15,25 +15,25 @@ include:
 author:
   name: Bikarna Pokharel
   email: "bikarnap@gmail.com"
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-    - title: GitHub
-      url: "https://github.com/bikarnap"
-      icon: github
+# minima:
+#   date_format: "%b %-d, %Y"
+#   social_links:
+#     - title: GitHub
+#       url: "https://github.com/bikarnap"
+#       icon: github
   
-    - title: Twitter
-      url: "https://twitter.com/bikarnap"
-      icon: "x-twitter"
+#     - title: Twitter
+#       url: "https://twitter.com/bikarnap"
+#       icon: "x-twitter"
   
-    - title: LinkedIn
-      url: "https://www.linkedin.com/in/bikarna-pokharel-40443652"
-      icon: linkedin
+#     - title: LinkedIn
+#       url: "https://www.linkedin.com/in/bikarna-pokharel-40443652"
+#       icon: linkedin
 lang: en
 timezone: Europe/Helsinki
 
-# twitter_username: bikarnap
-# github_username: bikarnap
-# linkedin_username: bikarna-pokharel-40443652
+twitter_username: bikarnap
+github_username: bikarnap
+linkedin_username: bikarna-pokharel-40443652
 
 
