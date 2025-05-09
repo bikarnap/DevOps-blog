@@ -5,3 +5,6 @@ author:
   email: "bikarnap@gmail.com"
 minima:
   date_format: "%b %-d, %Y"
+lang: en
+timezone: Europe/Helsinki
+
