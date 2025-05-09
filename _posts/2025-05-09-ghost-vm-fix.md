@@ -4,6 +4,7 @@ description: "Learn how to fix a stuck or ghost virtual machine in XCP-ng or Xen
 title: "🧟‍♂️ How to Fix a Stuck or Ghost VM in XCP-ng or XenServer"
 author: Bikarna Pokharel
 categories: [xcp-ng, virtualization, devops]
+permalink: /xcp-ng/virtualization/devops/2025/05/09/ghost-vm-fix.html
 tags: [xenserver, xcp-ng, ghost-vm, vm-reset, xe, virtualization]
 date: 2025-05-09
 ---
