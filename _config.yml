@@ -10,6 +10,7 @@ plugins:
 
 include:
   # - _includes/head-custom.html
+  - _includes/social.html
 
 author:
   name: Bikarna Pokharel
