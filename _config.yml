@@ -10,6 +10,7 @@ plugins:
 
 include:
   - _includes/head-custom.html
+  - _includes/head.html
   - _layouts/default.html
 
 author:
