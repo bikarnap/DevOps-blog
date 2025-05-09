@@ -1,6 +1,6 @@
 # title: DevOps Blog
 # Old:
-# theme: minima
+theme: minima
 
 # New:
 remote_theme: jekyll/minima
