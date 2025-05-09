@@ -5,7 +5,7 @@ author: Bikarna Pokharel
 tags: [xcp-ng, VM, troubleshooting]
 date: 2025-05-09
 ---
-
+This is a test. <i class="fab fa-github"></i>
 > A practical guide to resolving a VM that appears to be running, but isn't — and refuses to shut down or be destroyed.
 📅 **Posted on May 9, 2025 – Eastern European Summer Time (EEST)**
 ---
