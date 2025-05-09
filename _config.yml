@@ -7,6 +7,9 @@ theme: minima
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
 include:
   # - _includes/head-custom.html
