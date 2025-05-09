@@ -1,8 +1,10 @@
 ---
 layout: post
+description: "Learn how to fix a stuck or ghost virtual machine in XCP-ng or XenServer when 'xe' shows it running but it won't shut down or destroy."
 title: "🧟‍♂️ How to Fix a Stuck or Ghost VM in XCP-ng or XenServer"
 author: Bikarna Pokharel
-tags: [xcp-ng, VM, troubleshooting]
+categories: [xcp-ng, virtualization, devops]
+tags: [xenserver, xcp-ng, ghost-vm, vm-reset, xe, virtualization]
 date: 2025-05-09
 ---
 
