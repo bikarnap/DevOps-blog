@@ -1,5 +1,13 @@
 # title: DevOps Blog
-theme: minima
+# Old:
+# theme: minima
+
+# New:
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+
 author:
   name: Bikarna Pokharel
   email: "bikarnap@gmail.com"
