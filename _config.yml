@@ -14,7 +14,7 @@ plugins:
 include:
   # - _includes/head-custom.html
   - _includes/social.html
-  - _includes/discus.html
+  - _includes/disqus.html
 
 disqus:
     shortname: https-bikarnap-github-io-devops-blog
