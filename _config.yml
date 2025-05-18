@@ -14,6 +14,10 @@ plugins:
 include:
   # - _includes/head-custom.html
   - _includes/social.html
+  - _includes/discus.html
+
+disqus:
+    shortname: https-bikarnap-github-io-devops-blog
 
 author:
   name: Bikarna Pokharel
